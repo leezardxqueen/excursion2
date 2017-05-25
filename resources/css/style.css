@@ -1,5 +1,7 @@
 html {
   background-color: black;
+  text-align: center;
+  font-family: Verdana;
 }
 
 .header h1 {
@@ -7,11 +9,19 @@ html {
   font-weight: normal;
   font-size: 50px;
   font-family: Verdana;
-  text-align: center;
 }
 
 .header h2 {
-  text-align: center;
   color: Aquamarine;
   font-size: 16px;
+}
+
+.personal h1 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.person p {
+  font-size: 21px;
+  color: Gray;
 }
