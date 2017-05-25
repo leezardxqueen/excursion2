@@ -1,3 +1,17 @@
 html {
   background-color: black;
 }
+
+.header h1 {
+  color: white;
+  font-weight: normal;
+  font-size: 50px;
+  font-family: Verdana;
+  text-align: center;
+}
+
+.header h2 {
+  text-align: center;
+  color: Aquamarine;
+  font-size: 16px;
+}
